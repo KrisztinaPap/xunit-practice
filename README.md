@@ -58,3 +58,4 @@ https://trello.com/b/BgOGUH9r/c-review-oop-practice-xunit-cumulative
 
 ## References/Citations
 - [Codeasy.net: Input validation](https://codeasy.net/lesson/input_validation)
+- Huge shoutout to Aaron Barthel, Lindsey Graham, and Kenji Au for helping me understand polymorphic objects and testing!

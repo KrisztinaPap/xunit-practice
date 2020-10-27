@@ -17,10 +17,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/XUnitCumulativePractice/Program.cs" />
-        <option value="$PROJECT_DIR$/XUnitCumulativePractice_Tests/Program_Tests.cs" />
         <option value="$PROJECT_DIR$/XUnitCumulativePractice/Item.cs" />
         <option value="$PROJECT_DIR$/XUnitCumulativePractice/Storage.cs" />
         <option value="$PROJECT_DIR$/Storage_Tests.cs/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/XUnitCumulativePractice_Tests/Program_Tests.cs" />
       </list>
     </option>
   </component>
@@ -62,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603823743281</updated>
-      <workItem from="1603823753162" duration="15566000" />
+      <workItem from="1603823753162" duration="17586000" />
     </task>
     <servers />
   </component>
