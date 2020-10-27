@@ -7,7 +7,7 @@ namespace XUnitCumulativePractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
 
         public static bool ValidateOneToOneHundredEven(string input)
@@ -15,14 +15,8 @@ namespace XUnitCumulativePractice
             // Citation: https://codeasy.net/lesson/input_validation
             // Checks if the input can be parsed into an int, if so, it will be true
             int userNumber;
-            if ( (int.TryParse(input, out userNumber)) && (userNumber > 0) && (userNumber < 101) && (userNumber%2 == 0) )
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return ((int.TryParse(input, out userNumber)) && (userNumber > 0) && (userNumber <= 100) &&
+                    (userNumber % 2 == 0));
         }
     }
 }
