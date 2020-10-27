@@ -12,10 +12,22 @@
             </e>
           </e>
         </e>
-        <e p="UnitTest1.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
         <e p="XUnitCumulativePractice.csproj" t="IncludeRecursive" />
       </e>
       <e p="XUnitCumulativePractice.sln" t="IncludeFlat" />
+      <e p="XUnitCumulativePractice_Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="XUnitCumulativePractice_Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program_Tests.cs" t="Include" />
+        <e p="XUnitCumulativePractice_Tests.csproj" t="IncludeRecursive" />
+      </e>
     </e>
     <e p="C:\Users\krisz\.nuget\packages\microsoft.net.test.sdk\16.5.0\build\netcoreapp2.1" t="Include">
       <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />

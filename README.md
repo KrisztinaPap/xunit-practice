@@ -57,3 +57,4 @@
 https://trello.com/b/BgOGUH9r/c-review-oop-practice-xunit-cumulative
 
 ## References/Citations
+- [Codeasy.net: Input validation](https://codeasy.net/lesson/input_validation)
